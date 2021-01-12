@@ -1,2 +1,3 @@
-# ASM
-Just a APRTMENT MANAGE SYSTEM for SSM, from class project.
+# Class Projects of HUTB
+
+Just Class Projects for SSM, from class project.
